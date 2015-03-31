@@ -1,1 +1,1 @@
-Sample SUMMARY.md
+* [chapter1](chapter1.md)
